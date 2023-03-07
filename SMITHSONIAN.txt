@@ -1,0 +1,12 @@
+#EXTINF:-1 tvg-id="smithsonian.uk" tvg-name="UK| SMITHSONIAN HD" tvg-logo="https://lo1.in/uk/smso.png" group-title="EU | UK DOCUMENTRIES",UK| SMITHSONIAN HD
+http://sm365.xyz:80/8256044689/6564335476/400230366
+#EXTINF:-1 tvg-id="smithsonian.uk" tvg-name="UK| SMITHSONIAN FHD" tvg-logo="https://lo1.in/uk/smso.png" group-title="EU | UK DOCUMENTRIES",UK| SMITHSONIAN FHD
+http://sm365.xyz:80/8256044689/6564335476/189952
+#EXTINF:-1 tvg-id="smithsonian.uk" tvg-name="UK| SMITHSONIAN SD" tvg-logo="https://lo1.in/uk/smso.png" group-title="EU | UK DOCUMENTRIES",UK| SMITHSONIAN SD
+http://sm365.xyz:80/8256044689/6564335476/400230367
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="US| SMITHSONIAN CHANNEL HD" tvg-logo="https://lo1.in/us/smt.png" group-title="AM | USA DOCUMENTARY",US| SMITHSONIAN CHANNEL HD
+http://sm365.xyz:80/8256044689/6564335476/176667
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="US| (PLUTO) SMITHSONIAN CHANNEL SELECTS HD" tvg-logo="https://lo1.in/us/smt.png" group-title="AM | USA STREAMED CHANNELS",US| (PLUTO) SMITHSONIAN CHANNEL SELECTS HD
+http://sm365.xyz:80/8256044689/6564335476/400163025
+#EXTINF:-1 tvg-id="smithsonian.ca" tvg-name="CA| SMITHSONIAN HD" tvg-logo="https://lo1.in/ca/smths.png" group-title="AM | CANADA DOCUMENTARY",CA| SMITHSONIAN HD
+http://sm365.xyz:80/8256044689/6564335476/362321
